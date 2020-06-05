@@ -1,0 +1,105 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??__nextjs_postcss!styles/animation.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??__nextjs_postcss!node_modules/video-react/dist/video-react.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "2c98e875b8cb7c5ff963fb34a4231ab44d5c1e10": 3,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/_app.js": 4,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/_error.js": 5,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/about.js": 6,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/booking.js": 7,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/events.js": 8,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/fotoxl.js": 9,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/index.js": 10,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/p/[id].js": 11,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/post.js": 12,
+      "static/4C0T1KQ74x8LtDXHoV42x/pages/solutions.js": 13,
+      "static/runtime/main.js": 14,
+      "static/runtime/polyfills.js": 15,
+      "949d46e84cccc54728a68f6e8c86336730194cef": 16,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/_app.js": 17,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/_error.js": 18,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/about.js": 19,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/booking.js": 20,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/events.js": 21,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/fotoxl.js": 22,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/index.js": 23,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/p/[id].js": 24,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/post.js": 25,
+      "static/lBc-60xd4PmqACWqjq3mv/pages/solutions.js": 26,
+      "b54370d44aee3697ee94e8c9713659601ba0fc5b": 3,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/_app.js": 4,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/_error.js": 5,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/about.js": 6,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/booking.js": 7,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/events.js": 8,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/fotoxl.js": 9,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/index.js": 10,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/p/[id].js": 11,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/post.js": 12,
+      "static/UvPoeoVBLXP5Nhg6J0pVP/pages/solutions.js": 13
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

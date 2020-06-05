@@ -1,0 +1,28 @@
+{
+  "name": "dkp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://dkp-ent.com",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "devextreme": "npm:devextreme@20.1",
+    "devextreme-react": "npm:devextreme-react@20.1",
+    "moment": "^2.26.0",
+    "next": "^9.2.1",
+    "next-transpile-modules": "^3.3.0",
+    "react": "^16.12.0",
+    "react-big-calendar": "^0.24.6",
+    "react-dom": "^16.12.0",
+    "react_google_calendar": "^2.2.4444",
+    "redux": "^4.0.5",
+    "video-react": "^0.14.1"
+  }
+}

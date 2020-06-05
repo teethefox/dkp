@@ -1,0 +1,74 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_app.js": 0,
+      "multi private-next-pages/about.js": 1,
+      "multi private-next-pages/booking.js": 2,
+      "multi private-next-pages/events.js": 3,
+      "multi private-next-pages/fotoxl.js": 4,
+      "multi private-next-pages/index.js": 5,
+      "multi private-next-pages/p/[id].js": 6,
+      "multi private-next-pages/post.js": 7,
+      "multi private-next-pages/solutions.js": 8,
+      "multi next/dist/pages/_error": 9,
+      "multi next/dist/pages/_document": 10
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/_app.js": 2,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/_document.js": 3,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/_error.js": 4,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/about.js": 5,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/booking.js": 6,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/events.js": 7,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/fotoxl.js": 8,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/index.js": 9,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/p/[id].js": 10,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/post.js": 11,
+      "static/nHEf8M86E2ihS87NvCcgZ/pages/solutions.js": 12,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/_app.js": 13,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/_document.js": 14,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/_error.js": 15,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/about.js": 16,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/booking.js": 17,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/events.js": 18,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/fotoxl.js": 19,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/index.js": 20,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/p/[id].js": 21,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/post.js": 22,
+      "static/xf7Oxn1q7lSyzcbezMxaM/pages/solutions.js": 23
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  }
+}
